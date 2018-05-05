@@ -1,0 +1,21 @@
+
+//ITEMS
+item.shale.name=Shale
+item.shale_shards.name=Shale Shards
+
+
+//BLOCKS
+tile.shale_block.name=Shale Block
+
+//TOOLS
+item.shale_axe.name=Shale Axe
+item.shale_pickaxe.name=Shale Pickaxe
+item.shale_shovel.name=Shale Shovel
+item.shale_hoe.name=Shale Hoe
+item.shale_sword.name=Shale Sword
+
+//ARMOR
+item.shale_helmet.name=Shale Helmet
+item.shale_chestplate.name=Shale Chestplate
+item.shale_leggings.name=Shale Leggings
+item.shale_boots.name=Shale Boots
