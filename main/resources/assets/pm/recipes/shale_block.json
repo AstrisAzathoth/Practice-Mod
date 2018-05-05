@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        "SSS",
+        "SSS"
+        
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "pm:shale"
+        },
+        
+    "result":
+    {
+        "item": "pm:shale_block"
+        }
+    }
+}
