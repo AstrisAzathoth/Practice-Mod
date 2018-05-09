@@ -1,29 +1,29 @@
+
 {
     "type": "minecraft:crafting_shaped",
     
     "pattern":
     [
+        "M",
         "S",
-        "T",
-        "T"
-        
+        "S"
     ],
     
     "key":
     {
-        "S":
+        "M":
         {
             "item": "pm:shale"
         },
-        
-        "T":
+        "S":
         {
-            "item": "minecraft:stick"    
-        },
+            "item": "minecraft:stick"
+        }
+        
+    },
     
     "result":
     {
         "item": "pm:shale_shovel"
-        }
     }
 }

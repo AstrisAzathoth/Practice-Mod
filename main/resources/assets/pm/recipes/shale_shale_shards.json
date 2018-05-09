@@ -13,12 +13,12 @@
     {
         "M":
         {
-            "item": "pm:shale"
+            "item": "pm:shale_shards"
         }
     },
     
     "result":
     {
-        "item": "pm:shale_block"
+        "item": "pm:shale"
     }
 }
