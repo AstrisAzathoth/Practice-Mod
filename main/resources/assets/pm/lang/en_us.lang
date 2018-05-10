@@ -6,6 +6,7 @@ item.shale_shards.name=Shale Shards
 
 //BLOCKS
 tile.shale_block.name=Shale Block
+tile.planks_waterlogged.name=Waterlogged Planks
 
 //TOOLS
 item.shale_axe.name=Shale Axe

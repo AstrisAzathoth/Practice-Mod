@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "variant=waterlogged": { "model": "pm:waterlogged_planks" }
+    }
+}

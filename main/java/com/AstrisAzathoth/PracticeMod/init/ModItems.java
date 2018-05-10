@@ -25,7 +25,7 @@ public class ModItems
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
 	//Materials
-	public static final ToolMaterial TOOL_SHALE = EnumHelper.addToolMaterial("tool_shale", 2, 500, 6.0F, 2.0F, 22);
+	public static final ToolMaterial TOOL_SHALE = EnumHelper.addToolMaterial("tool_shale", 2, 375, 6.0F, 2.0F, 22);
 	public static final ArmorMaterial ARMOR_SHALE = EnumHelper.addArmorMaterial("armor_shale", Reference.MOD_ID + ":shale", 30, new int[]{2, 5, 6, 2}, 25, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 0.0F);
 	
 	//Items
