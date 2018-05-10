@@ -6,7 +6,8 @@ public class EnumHandler
 {
 	public static enum EnumType implements IStringSerializable
 	{
-		WATERLOGGED(0, "waterlogged");
+		WATERLOGGED(0, "waterlogged"),
+		DAMAGED(1, "damaged");
 		
 		private static final EnumType[] META_LOOKUP = new EnumType[values().length];
 		private final int meta;
