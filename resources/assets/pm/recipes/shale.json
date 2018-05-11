@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "pm:shale_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:shale",
+        "count": 9
+    }
+}

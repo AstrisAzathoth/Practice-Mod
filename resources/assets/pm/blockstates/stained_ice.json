@@ -1,0 +1,21 @@
+{
+    "variants": 
+    {
+        "variant=black": { "model": "pm:stained_ice_black" },
+        "variant=red": { "model": "pm:stained_ice_red" },
+        "variant=green": { "model": "pm:stained_ice_green" },
+        "variant=brown": { "model": "pm:stained_ice_brown" },
+        "variant=blue": { "model": "pm:stained_ice_blue" },
+        "variant=purple": { "model": "pm:stained_ice_purple" },
+        "variant=cyan": { "model": "pm:stained_ice_cyan" },
+        "variant=silver": { "model": "pm:stained_ice_silver" },
+        "variant=gray": { "model": "pm:stained_ice_gray" },
+        "variant=pink": { "model": "pm:stained_ice_pink" },
+        "variant=lime": { "model": "pm:stained_ice_lime" },
+        "variant=yellow": { "model": "pm:stained_ice_yellow" },
+        "variant=light_blue": { "model": "pm:stained_ice_light_blue" },
+        "variant=magenta": { "model": "pm:stained_ice_magenta" },
+        "variant=orange": { "model": "pm:stained_ice_orange" },
+        "variant=white": { "model": "pm:stained_ice_white" }
+    }
+}

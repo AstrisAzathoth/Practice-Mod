@@ -1,0 +1,41 @@
+
+//ITEMS
+item.shale.name=Shale
+item.shale_shards.name=Shale Shards
+
+
+//BLOCKS
+tile.shale_block.name=Shale Block
+tile.planks_waterlogged.name=Waterlogged Planks
+tile.planks_damaged.name=Damaged Planks
+
+//STAINED_ICE
+tile.stained_ice_black.name=Black Stained Ice
+tile.stained_ice_red.name=Red Stained Ice
+tile.stained_ice_green.name=Green Stained Ice
+tile.stained_ice_brown.name=Brown Stained Ice
+tile.stained_ice_blue.name=Blue Stained Ice
+tile.stained_ice_purple.name=Purple Stained Ice
+tile.stained_ice_cyan.name=Cyan Stained Ice
+tile.stained_ice_silver.name=Silver Stained Ice
+tile.stained_ice_gray.name=Gray Stained Ice
+tile.stained_ice_pink.name=Pink Stained Ice
+tile.stained_ice_lime.name=Lime Stained Ice
+tile.stained_ice_yellow.name=Yellow Stained Ice
+tile.stained_ice_light_blue.name=Light Blue Stained Ice
+tile.stained_ice_magenta.name=Magenta Stained Ice
+tile.stained_ice_orange.name=Orange Stained Ice
+tile.stained_ice_white.name=White Stained Ice
+
+//TOOLS
+item.shale_axe.name=Shale Axe
+item.shale_pickaxe.name=Shale Pickaxe
+item.shale_shovel.name=Shale Shovel
+item.shale_hoe.name=Shale Hoe
+item.shale_sword.name=Shale Sword
+
+//ARMOR
+item.shale_helmet.name=Shale Helmet
+item.shale_chestplate.name=Shale Chestplate
+item.shale_leggings.name=Shale Leggings
+item.shale_boots.name=Shale Boots
